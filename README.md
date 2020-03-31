@@ -1,4 +1,4 @@
-## Intro to GraphQL API for Frontend Devs Workshop Starter Code
+## Frontend + graphql api using react, hasura and docker
 
 - Clone
 - `npm install`
